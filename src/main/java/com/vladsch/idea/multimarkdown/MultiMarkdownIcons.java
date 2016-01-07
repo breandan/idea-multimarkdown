@@ -35,4 +35,5 @@ public class MultiMarkdownIcons {
     public static final Icon MULTI_WIKI = IconLoader.getIcon("/com/vladsch/idea/multimarkdown/multi-wikimarkdown.png");
     public static final Icon QUICK_FIX = IconLoader.getIcon("/com/vladsch/idea/multimarkdown/markdownfix.png");
     public static final Icon GITHUB = IconLoader.getIcon("/com/vladsch/idea/multimarkdown/githublink.png");
+
 }

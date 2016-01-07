@@ -447,6 +447,7 @@
         <codeStyleSettingsProvider implementation="com.vladsch.idea.multimarkdown.language.MultiMarkdownCodeStyleSettingsProvider"/>
         <colorSettingsPage implementation="com.vladsch.idea.multimarkdown.highlighter.MultiMarkdownColorSettingsPage"/>
         <completion.contributor language="MultiMarkdown" implementationClass="com.vladsch.idea.multimarkdown.language.MultiMarkdownCompletionContributor"/>
+        <defaultLiveTemplatesProvider implementation="com.vladsch.idea.multimarkdown.templates.MultiMarkdownLiveTemplateProvider"/>
         <fileEditorProvider implementation="com.vladsch.idea.multimarkdown.editor.MultiMarkdownFxPreviewEditorProvider"/>
         <fileEditorProvider implementation="com.vladsch.idea.multimarkdown.editor.MultiMarkdownFxHtmlEditorProvider"/>
         <fileTypeFactory implementation="com.vladsch.idea.multimarkdown.MultiMarkdownFileTypeFactory"/>
